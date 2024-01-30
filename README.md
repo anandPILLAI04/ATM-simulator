@@ -6,7 +6,9 @@ Welcome to the Java ATM Simulator repository! 🏧 This comprehensive ATM simula
 
 The Java ATM Simulator consists of a total of 11 classes, each contributing to the seamless functioning of the application. The key functionalities include account creation, database storage, secure login, and an intuitive user interface with features like mini statement, balance enquiry, pin change, deposit, fast cash, and withdrawal. All transactions are recorded and stored in a SQL database for future reference.
 
-## Source Code :- bank management system/src/bank/management/system
+## Source Code :- https://github.com/anandPILLAI04/ATM-simulator/tree/main/bank%20management%20system/src/bank/management/system
+
+## Path :- bank management system/src/bank/management/system
 
 ## Demo
 
